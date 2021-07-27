@@ -4,7 +4,7 @@ https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?Pl
 #EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png", Señal Colombia  | CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="128" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/800px-Canal_RCN_logo.svg.png", RCN | CO
-http://54.39.16.47:25461/live/328965813/328965813/20019.m3u8
+https://m2j3tv8e8t.azcdn728.net:8443/hls/7dwzwc7pob4t6.m3u8?s=rcgcZ2xVrauP2nj-dsEPFw&e=1627436401
 #EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
 https://m2j3tv8e8t.azcdn728.net:8443/hls/65is893586k.m3u8?s=A_bhGPp-OaxTcobTnnK4Zg&e=1627430945
 #EXTINF:-1 tvg-id="123" tvg-name="Win+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win+  | CO
@@ -15,4 +15,3 @@ https://m2j3tv8e8t.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=ONBImAzkwNbKFzwXBhiqLQ
 https://m2j3tv8e8t.azcdn728.net:8443/hls/tuhkelirbbj0q.m3u8?s=ADaajFPrT3tDuy-RK544XA&e=1627432740
 #EXTINF:-1 tvg-id="123" tvg-name="Win+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png", Win+ OPC4  | CO
 https://m2j3tv8e8t.azcdn728.net:8443/hls/dcgmsy35q.m3u8?s=7oYe1Q9CAW58HriwKdDaiQ&e=1627432908
-
